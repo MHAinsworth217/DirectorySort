@@ -1,4 +1,4 @@
-# import relevant pyhton modules
+# import relevant python modules
 import os
 import re
 
